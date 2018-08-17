@@ -29,6 +29,6 @@
    "short_name": "__MSG_shortname__",
    "permissions": [ "storage", "tabs", "downloads", "\u003Call_urls>", "management", "cookies", "webRequest", "webRequestBlocking" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "2018.07.30.1",
+   "version": "2018.07.30.2",
    "web_accessible_resources": ["css/*", "img/*"]
 }

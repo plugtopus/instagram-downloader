@@ -30,7 +30,7 @@
       "message": "Delete Error"
    },
    "disconnect_notification": {
-      "message": "Refresh this page to continue using Downloader for Instagram™"
+      "message": "Refresh this page to continue using Downloader for Instagram"
    },
    "do_not_show_again": {
       "message": "Don't show this again"
@@ -45,7 +45,7 @@
       "message": "Downloading big amount of files may take much time and can falter"
    },
    "download_zip": {
-      "message": "Downloading files from Instagram™ server"
+      "message": "Downloading files from Instagram server"
    },
    "error403_possible_reasons": {
       "message": "Possible reasons"
@@ -57,7 +57,7 @@
       "message": "Conflict with another extension. Turn off other extensions and try again."
    },
    "errorZip": {
-      "message": "Error when getting Zip file. Most likely you have tried to download too many files within your Internet connection speed or computer power. Try to reduce number of files to make it work or try again in few seconds. Sometimes Instagram™ servers get stuck on a lot of requests."
+      "message": "Error when getting Zip file. Most likely you have tried to download too many files within your Internet connection speed or computer power. Try to reduce number of files to make it work or try again in few seconds. Sometimes Instagram servers get stuck on a lot of requests."
    },
    "error_dl_msg": {
       "message": "Download error"
@@ -129,10 +129,10 @@
       "message": "Preparing links"
    },
    "reloadPage": {
-      "message": "Please refresh page to activate Downloader for Instagram™"
+      "message": "Please refresh page to activate Downloader for Instagram"
    },
    "reloadPageLong": {
-      "message": "Refresh Instagram™ page after installation"
+      "message": "Refresh Instagram page after installation"
    },
    "reloadPageShort": {
       "message": "Refresh page"
